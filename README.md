@@ -11,8 +11,10 @@ TIDAK ADA TRIAL
  pip install stdiomask
  pip install bs4
  pip install rich
+ rm -rf Julaeha
  git clone https://github.com/Reza-muhamad/JulaehaPrem
  cd JulaehaPrem
+ git pull
  python JULAEHA.py
 ```
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
